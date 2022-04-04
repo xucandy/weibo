@@ -11281,15 +11281,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  font-size: 14px;
-  font-weight: normal;
-}
-
-nav.navbar.navbar-expand-lg {
-  margin-bottom: 20px;
-}
-
+/* footer */
 footer {
   margin-top: 45px;
   padding-top: 5px;
